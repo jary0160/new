@@ -19,7 +19,7 @@ public class assignment1 {
         
         for (int i = 0; i < myNumbers.length; i++) {
             myNumbers[i] = new Numbers
-                        ("" + (i+1), 
+                        ("" + (i+1), `
                         (int)(Math.random() * 0 + 5000),
                         (int)(Math.random() * 0 + 5000)
                         );
